@@ -1,0 +1,5 @@
+---
+permalink: /blah/
+---
+
+# yo
